@@ -1,0 +1,99 @@
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+CONTAINER ID   NAME                             CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O       PIDS
+7ae7f944470d   peer0.org1.example.com           1.49%     48.36MiB / 7.76GiB   0.61%     71.3kB / 32.9kB   0B / 180kB      9
+91d2dac3003d   peer0.org2.example.com           1.30%     44.91MiB / 7.76GiB   0.57%     70.4kB / 32.3kB   0B / 180kB      10
+d03635b3a9c9   orderer0.example.com             0.56%     14.64MiB / 7.76GiB   0.18%     15.2kB / 23.9kB   106kB / 123kB   10
+d4160d9a9a34   ca.org1.example.com              0.00%     8.789MiB / 7.76GiB   0.11%     3.16kB / 5.89kB   0B / 446kB      7
+6539b0b4831e   ca.org2.example.com              0.00%     8.375MiB / 7.76GiB   0.11%     3.27kB / 5.89kB   102kB / 446kB   7
+c87f0520e444   couchdb.peer0.org2.example.com   0.22%     37.4MiB / 7.76GiB    0.47%     23.4kB / 21.9kB   0B / 762kB      41
+e1ec67eb5ec4   couchdb.peer0.org1.example.com   5.95%     38.47MiB / 7.76GiB   0.48%     23.6kB / 22.4kB   0B / 766kB      41
+773fe442c6aa   wizardly_grothendieck            96.39%    85.31MiB / 7.76GiB   1.07%     736B / 0B         0B / 0B         17
+d4ad7b889a71   pedantic_perlman                 98.89%    81.68MiB / 7.76GiB   1.03%     376B / 0B         0B / 0B         18
+CONTAINER ID   NAME                                    CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O       PIDS
+7ae7f944470d   peer0.org1.example.com                  3.36%     98.99MiB / 7.76GiB   1.25%     92.8kB / 46.3kB   0B / 205kB      10
+91d2dac3003d   peer0.org2.example.com                  3.25%     93.38MiB / 7.76GiB   1.18%     89.3kB / 44kB     0B / 205kB      10
+d03635b3a9c9   orderer0.example.com                    0.39%     14.64MiB / 7.76GiB   0.18%     21.3kB / 36.4kB   106kB / 143kB   10
+d4160d9a9a34   ca.org1.example.com                     0.00%     8.789MiB / 7.76GiB   0.11%     3.31kB / 5.89kB   0B / 446kB      7
+6539b0b4831e   ca.org2.example.com                     0.00%     8.375MiB / 7.76GiB   0.11%     3.49kB / 5.89kB   102kB / 446kB   7
+c87f0520e444   couchdb.peer0.org2.example.com          9.15%     38.45MiB / 7.76GiB   0.48%     28.9kB / 29.3kB   0B / 942kB      41
+e1ec67eb5ec4   couchdb.peer0.org1.example.com          0.74%     38.55MiB / 7.76GiB   0.49%     24.1kB / 22.7kB   0B / 766kB      41
+78977f9bc71c   dev-peer0.org2.example.com-marbles-v0   0.00%     6.141MiB / 2GiB      0.30%     3.82kB / 2.26kB   0B / 0B         6
+39fec317442e   dev-peer0.org1.example.com-marbles-v0   0.00%     5.855MiB / 2GiB      0.29%     3.75kB / 2.17kB   0B / 0B         7
+a99047001c87   hardcore_sinoussi                       99.52%    94.56MiB / 7.76GiB   1.19%     736B / 0B         0B / 0B         17
+5efb0f1b0777   goofy_archimedes                        96.26%    92.55MiB / 7.76GiB   1.16%     536B / 0B         0B / 0B         17
+CONTAINER ID   NAME                                    CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O       PIDS
+39fec317442e   dev-peer0.org1.example.com-marbles-v0   0.00%     5.855MiB / 2GiB      0.29%     4.18kB / 2.34kB   0B / 0B         7
+78977f9bc71c   dev-peer0.org2.example.com-marbles-v0   0.00%     6.141MiB / 2GiB      0.30%     4.24kB / 2.44kB   0B / 0B         6
+7ae7f944470d   peer0.org1.example.com                  1.01%     137.6MiB / 7.76GiB   1.73%     93.4kB / 46.9kB   0B / 205kB      10
+91d2dac3003d   peer0.org2.example.com                  1.25%     133.6MiB / 7.76GiB   1.68%     89.9kB / 44.6kB   0B / 205kB      10
+d03635b3a9c9   orderer0.example.com                    0.07%     14.64MiB / 7.76GiB   0.18%     21.6kB / 36.6kB   106kB / 143kB   10
+d4160d9a9a34   ca.org1.example.com                     0.00%     8.789MiB / 7.76GiB   0.11%     3.42kB / 5.89kB   0B / 446kB      7
+6539b0b4831e   ca.org2.example.com                     0.00%     8.375MiB / 7.76GiB   0.11%     3.53kB / 5.89kB   102kB / 446kB   7
+c87f0520e444   couchdb.peer0.org2.example.com          0.24%     38.46MiB / 7.76GiB   0.48%     29.3kB / 29.6kB   0B / 942kB      41
+e1ec67eb5ec4   couchdb.peer0.org1.example.com          0.74%     39.82MiB / 7.76GiB   0.50%     29.9kB / 31.4kB   0B / 946kB      41
+54e79a1a30c5   dev-peer0.org2.example.com-drm-v0       0.00%     5.918MiB / 2GiB      0.29%     3.59kB / 2.26kB   0B / 0B         7
+01305633d4da   dev-peer0.org1.example.com-drm-v0       0.94%     6.613MiB / 2GiB      0.32%     3.46kB / 2.14kB   0B / 0B         6
+               --                                      0.00%     0B / 0B              0.00%     0B / 0B           0B / 0B         0
+               --                                      0.00%     0B / 0B              0.00%     0B / 0B           0B / 0B         0
+CONTAINER ID   NAME                                    CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O       PIDS
+54e79a1a30c5   dev-peer0.org2.example.com-drm-v0       0.00%     5.918MiB / 2GiB      0.29%     4.07kB / 2.43kB   0B / 0B         7
+01305633d4da   dev-peer0.org1.example.com-drm-v0       0.00%     6.613MiB / 2GiB      0.32%     4.09kB / 2.31kB   0B / 0B         6
+39fec317442e   dev-peer0.org1.example.com-marbles-v0   0.00%     5.855MiB / 2GiB      0.29%     4.51kB / 2.56kB   0B / 0B         7
+78977f9bc71c   dev-peer0.org2.example.com-marbles-v0   0.00%     6.141MiB / 2GiB      0.30%     4.57kB / 2.65kB   0B / 0B         6
+7ae7f944470d   peer0.org1.example.com                  1.38%     154.2MiB / 7.76GiB   1.94%     114kB / 60.1kB    0B / 233kB      10
+91d2dac3003d   peer0.org2.example.com                  1.37%     148.6MiB / 7.76GiB   1.87%     108kB / 55.9kB    0B / 233kB      10
+d03635b3a9c9   orderer0.example.com                    0.06%     14.64MiB / 7.76GiB   0.18%     27.4kB / 48.6kB   106kB / 168kB   10
+d4160d9a9a34   ca.org1.example.com                     0.00%     8.789MiB / 7.76GiB   0.11%     3.47kB / 5.89kB   0B / 446kB      7
+6539b0b4831e   ca.org2.example.com                     0.00%     8.375MiB / 7.76GiB   0.11%     3.65kB / 5.89kB   102kB / 446kB   7
+c87f0520e444   couchdb.peer0.org2.example.com          1.67%     38.86MiB / 7.76GiB   0.49%     33.8kB / 35.9kB   0B / 967kB      41
+e1ec67eb5ec4   couchdb.peer0.org1.example.com          0.60%     40.05MiB / 7.76GiB   0.50%     34.9kB / 39.5kB   0B / 971kB      41
+               --                                      0.00%     0B / 0B              0.00%     0B / 0B           0B / 0B         0
+CONTAINER ID   NAME                                    CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O       PIDS
+2c239b2985c3   dev-peer0.org1.example.com-simple-v0    0.00%     6.02MiB / 2GiB       0.29%     4.04kB / 2.25kB   0B / 0B         7
+48b533557110   dev-peer0.org2.example.com-simple-v0    0.00%     5.918MiB / 2GiB      0.29%     4.16kB / 2.34kB   0B / 0B         7
+54e79a1a30c5   dev-peer0.org2.example.com-drm-v0       0.00%     5.918MiB / 2GiB      0.29%     4.44kB / 2.65kB   0B / 0B         7
+01305633d4da   dev-peer0.org1.example.com-drm-v0       0.00%     6.613MiB / 2GiB      0.32%     4.39kB / 2.53kB   0B / 0B         6
+39fec317442e   dev-peer0.org1.example.com-marbles-v0   0.00%     5.855MiB / 2GiB      0.29%     4.81kB / 2.77kB   0B / 0B         7
+78977f9bc71c   dev-peer0.org2.example.com-marbles-v0   0.00%     6.141MiB / 2GiB      0.30%     4.87kB / 2.87kB   0B / 0B         6
+7ae7f944470d   peer0.org1.example.com                  58.14%    182.2MiB / 7.76GiB   2.29%     136kB / 73.4kB    0B / 258kB      10
+91d2dac3003d   peer0.org2.example.com                  57.62%    160.2MiB / 7.76GiB   2.02%     126kB / 67.5kB    0B / 258kB      10
+d03635b3a9c9   orderer0.example.com                    0.05%     14.65MiB / 7.76GiB   0.18%     33.4kB / 60.8kB   106kB / 188kB   10
+d4160d9a9a34   ca.org1.example.com                     0.00%     8.789MiB / 7.76GiB   0.11%     3.62kB / 5.89kB   0B / 446kB      7
+6539b0b4831e   ca.org2.example.com                     0.00%     8.375MiB / 7.76GiB   0.11%     3.73kB / 5.89kB   102kB / 446kB   7
+c87f0520e444   couchdb.peer0.org2.example.com          0.33%     38.73MiB / 7.76GiB   0.49%     38.4kB / 42.2kB   0B / 991kB      41
+e1ec67eb5ec4   couchdb.peer0.org1.example.com          0.85%     40.16MiB / 7.76GiB   0.51%     39.9kB / 48.3kB   0B / 995kB      41
+CONTAINER ID   NAME                                      CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O       PIDS
+0589ce19069b   dev-peer0.org1.example.com-smallbank-v0   0.00%     5.887MiB / 2GiB      0.29%     3.97kB / 2.35kB   0B / 0B         7
+39d4173651b5   dev-peer0.org2.example.com-smallbank-v0   0.00%     5.91MiB / 2GiB       0.29%     4.09kB / 2.35kB   0B / 0B         7
+2c239b2985c3   dev-peer0.org1.example.com-simple-v0      0.00%     6.02MiB / 2GiB       0.29%     4.41kB / 2.46kB   0B / 0B         7
+48b533557110   dev-peer0.org2.example.com-simple-v0      0.00%     5.918MiB / 2GiB      0.29%     4.49kB / 2.51kB   0B / 0B         7
+54e79a1a30c5   dev-peer0.org2.example.com-drm-v0         0.00%     5.918MiB / 2GiB      0.29%     4.74kB / 2.87kB   0B / 0B         7
+01305633d4da   dev-peer0.org1.example.com-drm-v0         0.00%     6.613MiB / 2GiB      0.32%     4.76kB / 2.74kB   0B / 0B         6
+39fec317442e   dev-peer0.org1.example.com-marbles-v0     0.70%     5.949MiB / 2GiB      0.29%     324kB / 151kB     0B / 0B         7
+78977f9bc71c   dev-peer0.org2.example.com-marbles-v0     0.64%     6.246MiB / 2GiB      0.30%     322kB / 150kB     0B / 0B         6
+7ae7f944470d   peer0.org1.example.com                    3.10%     183.4MiB / 7.76GiB   2.31%     726kB / 1.37MB    0B / 283kB      12
+91d2dac3003d   peer0.org2.example.com                    3.04%     161.3MiB / 7.76GiB   2.03%     666kB / 710kB     0B / 283kB      11
+d03635b3a9c9   orderer0.example.com                      0.07%     14.65MiB / 7.76GiB   0.18%     39.1kB / 72.7kB   106kB / 209kB   10
+d4160d9a9a34   ca.org1.example.com                       0.00%     8.789MiB / 7.76GiB   0.11%     3.7kB / 5.89kB    0B / 446kB      7
+6539b0b4831e   ca.org2.example.com                       0.00%     8.375MiB / 7.76GiB   0.11%     3.81kB / 5.89kB   102kB / 446kB   7
+c87f0520e444   couchdb.peer0.org2.example.com            4.96%     41.68MiB / 7.76GiB   0.52%     138kB / 163kB     0B / 1.11MB     41
+e1ec67eb5ec4   couchdb.peer0.org1.example.com            6.58%     42.63MiB / 7.76GiB   0.54%     138kB / 169kB     0B / 1.12MB     41
+CONTAINER ID   NAME                                      CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O       PIDS
+0589ce19069b   dev-peer0.org1.example.com-smallbank-v0   0.00%     5.887MiB / 2GiB      0.29%     4.35kB / 2.58kB   0B / 0B         7
+39d4173651b5   dev-peer0.org2.example.com-smallbank-v0   0.00%     5.91MiB / 2GiB       0.29%     4.41kB / 2.58kB   0B / 0B         7
+2c239b2985c3   dev-peer0.org1.example.com-simple-v0      0.00%     6.02MiB / 2GiB       0.29%     4.63kB / 2.68kB   0B / 0B         7
+48b533557110   dev-peer0.org2.example.com-simple-v0      0.00%     5.918MiB / 2GiB      0.29%     4.7kB / 2.73kB    0B / 0B         7
+54e79a1a30c5   dev-peer0.org2.example.com-drm-v0         0.00%     6.004MiB / 2GiB      0.29%     5.05kB / 3.11kB   0B / 0B         8
+01305633d4da   dev-peer0.org1.example.com-drm-v0         0.00%     6.699MiB / 2GiB      0.33%     5.05kB / 3.03kB   0B / 0B         7
+39fec317442e   dev-peer0.org1.example.com-marbles-v0     0.99%     6.086MiB / 2GiB      0.30%     994kB / 460kB     0B / 0B         7
+78977f9bc71c   dev-peer0.org2.example.com-marbles-v0     0.95%     6.324MiB / 2GiB      0.31%     990kB / 456kB     0B / 0B         6
+7ae7f944470d   peer0.org1.example.com                    3.99%     184.5MiB / 7.76GiB   2.32%     1.8MB / 2.66MB    0B / 283kB      12
+91d2dac3003d   peer0.org2.example.com                    5.38%     195.7MiB / 7.76GiB   2.46%     1.74MB / 2.01MB   0B / 283kB      12
+d03635b3a9c9   orderer0.example.com                      0.05%     14.65MiB / 7.76GiB   0.18%     39.7kB / 73.2kB   106kB / 209kB   10
+d4160d9a9a34   ca.org1.example.com                       0.00%     8.789MiB / 7.76GiB   0.11%     3.7kB / 5.89kB    0B / 446kB      7
+6539b0b4831e   ca.org2.example.com                       0.00%     8.375MiB / 7.76GiB   0.11%     3.88kB / 5.89kB   102kB / 446kB   7
+c87f0520e444   couchdb.peer0.org2.example.com            5.68%     41.77MiB / 7.76GiB   0.53%     344kB / 410kB     0B / 1.15MB     41
+e1ec67eb5ec4   couchdb.peer0.org1.example.com            6.04%     42.73MiB / 7.76GiB   0.54%     335kB / 408kB     0B / 1.16MB     41
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
